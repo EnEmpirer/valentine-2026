@@ -30,7 +30,7 @@ const CONFIG = {
         },
         second: {
             text: "รักพี่ป่าววว?  รักเท่าไหร่?",                          // For the love meter
-            startText: "มากกกกกกกกกกกกกก!",                                   // Text before the percentage
+            startText: "กี่เปอร์ว่ามา",                                   // Text before the percentage
             nextBtn: "ไปกันต่อ ❤️"                                         // Text for the next button
         },
         third: {
