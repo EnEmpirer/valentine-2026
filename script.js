@@ -97,15 +97,6 @@ function createFloatingElements() {
         container.appendChild(div);
     });
 
-        // Create flower
-    config.floatingEmojis.flowers.forEach(flower => {
-        const div = document.createElement('div');
-        div.className = 'flower';
-        div.innerHTML = flower;
-        setRandomPosition(div);
-        container.appendChild(div);
-    });
-
     // Create bears
     config.floatingEmojis.bears.forEach(bear => {
         const div = document.createElement('div');
